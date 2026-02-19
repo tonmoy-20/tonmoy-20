@@ -18,7 +18,7 @@
 - 🎓 Completed **MERN Stack Bootcamp**
 - 💻 Passionate about **Full-Stack Web Development**
 - 🔥 Love building **real-world projects**
-- 🌱 Currently improving **Backend, Security & Performance**
+- 🌱 Currently improving **Next.Js, Frontend**
 - 🎯 Career goal: Work in a reputed tech organization
 
 ---
