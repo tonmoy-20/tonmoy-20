@@ -1,11 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=220&section=header&text=Tonmoy%20Kumar%20Biswas&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20UI%20Enthusiast%20|%20Problem%20Solver&descAlignY=60&descAlign=50"/>
-</p>
-
-<!-- Animated Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;Building+Modern+Web+Experiences;Always+Learning+New+Things" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tonmoy%20Kumar%20Biswas&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 
